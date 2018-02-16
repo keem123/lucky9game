@@ -1,0 +1,11 @@
+﻿<Application x:Class="Lucky_9_game.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lucky_9_game"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="MainBg" UriSource="Resources/tumblr_og06ceyQ4L1tu5ge4o2_1280.jpg"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

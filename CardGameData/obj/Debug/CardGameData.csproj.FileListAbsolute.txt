@@ -1,0 +1,6 @@
+c:\users\rnd kim\documents\visual studio 2017\Projects\Lucky_9_game\CardGameData\bin\Debug\CardGameData.dll
+c:\users\rnd kim\documents\visual studio 2017\Projects\Lucky_9_game\CardGameData\bin\Debug\CardGameData.pdb
+c:\users\rnd kim\documents\visual studio 2017\Projects\Lucky_9_game\CardGameData\obj\Debug\CardGameData.csprojResolveAssemblyReference.cache
+c:\users\rnd kim\documents\visual studio 2017\Projects\Lucky_9_game\CardGameData\obj\Debug\CardGameData.csproj.CoreCompileInputs.cache
+c:\users\rnd kim\documents\visual studio 2017\Projects\Lucky_9_game\CardGameData\obj\Debug\CardGameData.dll
+c:\users\rnd kim\documents\visual studio 2017\Projects\Lucky_9_game\CardGameData\obj\Debug\CardGameData.pdb

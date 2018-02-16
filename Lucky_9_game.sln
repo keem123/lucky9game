@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky_9_game", "Lucky_9_game\Lucky_9_game.csproj", "{46E8D013-F56C-48FB-9A4B-1AA8D22B3296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameData", "CardGameData\CardGameData.csproj", "{4547D52A-8A45-4922-B563-0826420BF2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E8D013-F56C-48FB-9A4B-1AA8D22B3296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E8D013-F56C-48FB-9A4B-1AA8D22B3296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E8D013-F56C-48FB-9A4B-1AA8D22B3296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E8D013-F56C-48FB-9A4B-1AA8D22B3296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4547D52A-8A45-4922-B563-0826420BF2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4547D52A-8A45-4922-B563-0826420BF2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4547D52A-8A45-4922-B563-0826420BF2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4547D52A-8A45-4922-B563-0826420BF2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F77912-C9DC-442C-BC39-5CA0D1A41FB9}
+	EndGlobalSection
+EndGlobal
